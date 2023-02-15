@@ -6,4 +6,4 @@ If you're having trouble moving the map, do these steps:
 2) Hover over the right arrow
 3) Click on the icon with 4 arrows
 
-Link: https://public.tableau.com/app/profile/anthony.xing/viz/U_SDRGAnalysis-AnthonyXing/HospitalFinderDashboard?publish=yes
+Link: https://public.tableau.com/shared/7PYDYJFHF?:display_count=n&:origin=viz_share_link
